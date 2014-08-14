@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">TenThousandHours</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">一万小时梦想指南</string>
+    <string name="action_settings">Settings</string>
+    <string name="dreamlist_fragment_text">我的梦想列表</string>
+    <string name="statics_fragment_text">梦想实施情况</string>
+    <string name="share_fragment_text">分享</string>
+    <string name="dreamlist_fragment_tab">梦想列表</string>
+    <string name="statics_fragment_tab">统计</string>
+    <string name="share_fragment_tab">分享</string>
 
 </resources>
